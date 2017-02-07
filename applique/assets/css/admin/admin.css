@@ -1,0 +1,87 @@
+/**
+ * Table Of Content
+ *
+ * 	1. Post Format Tabs
+ * 	2. Metaboxes
+ * 	3. Import/export Customizer
+ */
+
+/**
+ * 1. Post Format Tabs
+ */
+.vp-pfui-nav ul {
+	margin: 0;
+}
+.vp-pfui-nav ul li a {
+	border-radius: 0;
+	outline: 0;
+	box-shadow: none;
+}
+.vp-pfui-nav ul li a.current {
+    background: #f5f5f5;
+    color: #555;
+    border-bottom-color: #f5f5f5;
+}
+
+/**
+ * 2. Metaboxes
+ */
+#df_metaboxed_subtitle .inside,
+#df_metaboxed_affiliate .inside,
+#df_metaboxed_cstm_archive .inside {
+	margin-top: 12px;
+}
+#df_metaboxed_subtitle label,
+#df_metaboxed_affiliate label,
+#df_metaboxed_cstm_archive label,
+#df_metaboxed_sponsored label {
+	display: inline-block;
+	vertical-align: middle;
+	width: 20%;
+}
+
+#df_metaboxed_subtitle #df_subtitle,
+#df_metaboxed_affiliate #df_affiliate_title,
+#df_metaboxed_affiliate #df_affiliate_embed,
+#df_metaboxed_cstm_archive #df_custom_archive,
+#df_sponsored_area{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#df_metaboxed_affiliate #df_affiliate_embed,
+#df_metaboxed_sponsored #df_sponsored_area{
+	min-width: 60%;
+	min-height: 100px;
+	max-width: 100%;
+}
+#df_metaboxed_affiliate .inside .first {
+	margin-bottom: 12px;
+}
+@media only screen and ( max-width: 480px ) {
+	#df_metaboxed_subtitle label,
+	#df_metaboxed_affiliate label,
+	#df_metaboxed_cstm_archive label {
+		display: block;
+		width: 100%;
+		margin-bottom: 12px;
+	}
+	#df_metaboxed_subtitle #df_subtitle,
+	#df_metaboxed_affiliate #df_affiliate_title,
+	#df_metaboxed_affiliate #df_affiliate_embed,
+	#df_metaboxed_cstm_archive #df_custom_archive {
+		display: block;
+		width: 100%;
+	}
+}
+
+/**
+ * 3. Backup Customizer
+ */
+.col.two-col.import,
+.col.two-col.export {
+	margin-top: 15px;
+}
+.stuffbox {
+	padding: 0 15px;
+}

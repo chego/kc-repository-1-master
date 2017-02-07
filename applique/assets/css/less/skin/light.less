@@ -1,0 +1,112 @@
+/**
+ * Skin Light
+ *
+ * 	Table Of Content :
+ * 	  - Post
+ * 	  - Widget
+ *    - Front Page
+ */
+
+/**
+ * Post
+ */
+.df-skin-light .df-postmeta {
+	border-width: 1px;
+}
+.df-skin-light .type-post.sticky.df-sticky-post .df-post-title {
+    margin-bottom: 20px;
+}
+/**
+ * Widget
+ */
+.df-skin-light .sticky-sidebar {
+    border-left: 1px solid;
+}
+.df-skin-light .widget h4 {
+    padding: 0;
+    border-top: 0;
+}
+.df-skin-light .widget li {
+	text-align: center;
+}
+.df-skin-light .widget svg {
+    display: none;
+}
+.df-skin-light .widget .post-count {
+    position: relative;
+    margin-left: 15px;
+}
+.df-skin-light .df-sidebar .widget,
+.df-skin-light .blog-widget-area .widget {
+	border: 0;
+}
+.df-skin-light .df-sidebar .widget {
+    padding-top: 0;
+}
+.df-skin-light .blog-widget-area .widget {
+    padding-bottom: 0;
+}
+.df-skin-light .df-sidebar .widget h4 {
+	position: relative;
+}
+.df-skin-light .df-sidebar .widget h4 span {
+	background: #ffffff;
+    padding: 0 20px;
+}
+.df-skin-light .df-sidebar .widget h4:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    border-top: 1px solid;
+    z-index: -1;
+}
+.df-skin-light .quote-widget h4 span {
+	font-size: 18px;
+}
+.df-skin-light .quote-widget h4 span:before {
+	display: none;
+}
+.df-skin-light .widget:not(.recent-big-widget):not(.recent-medium-widget) li .recent-content,
+.df-skin-light .front-content.column-12 .widget.recent-big-widget li .recent-content {
+    text-align: left;
+}
+.df-skin-light .recent-small-widget .ver2 li .recent-content {
+    text-align: center !important;
+}
+.df-skin-light .blog-widget-area .widget:last-child {
+    padding-bottom: 0;
+}
+.df-skin-light .type-post.sticky.df-sticky-post .more-link {
+    margin-top: 25px !important;
+}
+
+/**
+ * Front Page
+ */
+.df-skin-light .front-content .widget {
+    border-width: 0;
+}
+.df-skin-light .widget > h4 {
+    position: relative;
+}
+.df-skin-light .widget > h4:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    border-top: 1px solid;
+    z-index: -1;
+}
+.df-skin-light .widget > h4 span {
+    background: #ffffff;
+    padding: 0 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .df-skin-light .sticky-sidebar {
+        border-left: 0;
+    }
+}

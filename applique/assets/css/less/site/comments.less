@@ -1,0 +1,127 @@
+/**
+ * 11. Comments
+ */
+.comments-area {
+	position: relative;
+	display: block;
+	margin: 60px 0 0;
+}
+.comments-title {
+	margin-top: 0;
+	text-align: center;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+}
+.comments-area .avatar-picture {
+	float: left;
+	border-radius: 100%;
+	overflow: hidden;
+	margin-right: 20px;
+	max-width: 50px;
+}
+.comment-author, .comments-area .sep, .comments-date,
+.comments-area .reply, .comments-area .edit {
+    margin: 0;
+    display: inline;
+}
+.comments-date, .comments-area .reply,
+.comments-area .edit {
+    font-size: .65em;
+    line-height: 1.2;
+}
+.comments-area .reply .sep,
+.comments-area .edit .sep {
+	font-size: 1.2em;
+}
+.comments-area .sep {
+	margin: 0 5px;
+	font-size: .8em;
+}
+.comment-content {
+	overflow: auto;
+}
+.comment-head {
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.comment-entry p {
+	margin: 0 0 20px;
+}
+.comment-entry {
+	font-size: .85em;
+	line-height: 1.875em;
+}
+.comment[class*="depth-"]:not(.depth-1) {
+	padding-left: 30px;
+}
+.comment-container {
+	padding-bottom: 40px;
+	margin-bottom: 50px;
+}
+.comment-navigation {
+	margin-bottom: 30px;
+}
+.comment-navigation .nav-prev {
+	float: left;
+}
+.comment-navigation .nav-next {
+	float: right;
+}
+.comment-respond {
+	padding: 10px 0 60px;
+}
+.comment-reply-title {
+	margin: 0 0 20px;
+	font-size: 2.125em;
+	text-align: center;
+    @media only screen and (max-width: 1024px) {
+        font-size: 1.75em;
+    }
+    @media only screen and (max-width: 769px) {
+        font-size: 1.5em;
+    }
+    @media only screen and (max-width: 480px) {
+        font-size: 1.125em;
+    }
+}
+#cancel-comment-reply-link {
+	font-size: .5em;
+}
+.comment-notes, .logged-in-as {
+	text-align: center;
+	font-size: .75em;
+	line-height: 1.2;
+	margin-bottom: 40px;
+}
+.comment-respond .form-fields {
+	margin-bottom: 30px;
+}
+.comment-respond label {
+	font-size: .75em;
+	line-height: 1.2;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.comment-respond .comment-notes {
+	margin-bottom: 40px;
+}
+.comment-respond .form-submit {
+	margin-bottom: 0;
+}
+.comment-respond .submit {
+	width: 100%;
+}
+
+/**
+ * 11.1 Responsive Comment
+ */
+@media (max-width: 768px){
+	.comment-respond .form-fields{
+		margin-right: 0;
+		margin-left: 0;
+	}
+	.comment-respond .form-fields span{
+		padding: 0;
+	}
+}

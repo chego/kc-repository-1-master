@@ -1,0 +1,1630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Applique\n"
+"POT-Creation-Date: 2015-12-03 10:23+0700\n"
+"PO-Revision-Date: 2015-12-17 11:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: Dahz\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;_ex;_nx;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "We're Sorry. <br /> This Page Cannot Be Found"
+msgstr ""
+
+#: ../404.php:16
+msgid ""
+"The page you are looking for is not here. It may have been deleted, or the "
+"address might have been miss-typed. You can use the navigation bar above, "
+"or&#58;"
+msgstr ""
+
+#: ../404.php:19
+msgid "Go Back To Homepage"
+msgstr ""
+
+#: ../comments.php:22
+msgid "One comment"
+msgstr "1 Commento"
+
+#: ../comments.php:31 ../comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti più vecchi"
+
+#: ../comments.php:35 ../comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "Nuovi commenti &rarr;"
+
+#: ../comments.php:81
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../comments.php:89
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "I campi obbligatori sono contrassegnati %s"
+
+#: ../comments.php:92
+msgid "Leave a Reply"
+msgstr "Lascia una risposta"
+
+#: ../comments.php:93
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Rispondi a %s"
+
+#: ../comments.php:94
+msgid "Cancel Reply"
+msgstr "Annulla risposta"
+
+#: ../comments.php:95
+msgid "Submit Your Comment"
+msgstr "Commento all'articolo"
+
+#: ../comments.php:98
+msgid "Name &#42;"
+msgstr "Nome &#42;"
+
+#: ../comments.php:98
+msgid "Name&#42;"
+msgstr "Nome&#42;"
+
+#: ../comments.php:99
+msgid "Email &#42;"
+msgstr ""
+
+#: ../comments.php:99
+msgid "Email&#42;"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Website"
+msgstr "Sito Web"
+
+#: ../comments.php:102
+msgid "Comment &#42;"
+msgstr "Commento &#42;"
+
+#: ../comments.php:104
+#, php-format
+msgid ""
+"<span class=\"df-comments-meta\">You must be</span> <a href=\"%s\">logged "
+"in</a> to post a comment."
+msgstr ""
+"<span class=\"df-comments-meta\">Devi essere</span> <a href=\"%s"
+"\">autenticato</a> per completare l'azione."
+
+#: ../comments.php:105
+#, php-format
+msgid ""
+"<span class=\"df-comments-meta\">Logged in as</span> <a href=\"%1$s\">%2$s</"
+"a>. <a href=\"%3$s\">%4$s</a>"
+msgstr ""
+"<span class=\"df-comments-meta\">Autenticato come</span> <a href=\"%1$s\">"
+"%2$s</a>. <a href=\"%3$s\">%4$s</a>"
+
+#: ../comments.php:105
+msgid "Log out?"
+msgstr "Scollegarsi?"
+
+#: ../comments.php:106
+msgid "Your email address will not be published."
+msgstr "L'indirizzo email non verrà pubblicato."
+
+#: ../customizer/customize-custom-field.php:49
+#: ../functions/content-custom-archive.php:31
+msgid "Select Category"
+msgstr "Seleziona una categoria"
+
+#: ../customizer/customize-setup.php:47
+msgid "General Layout"
+msgstr ""
+
+#: ../customizer/customize-setup.php:61
+msgid "Navigations"
+msgstr ""
+
+#: ../customizer/customize-setup.php:68
+msgid "Featured Area"
+msgstr ""
+
+#: ../customizer/customize-setup.php:75
+msgid "Post Settings"
+msgstr ""
+
+#: ../customizer/customize-setup.php:82
+msgid "Page Settings"
+msgstr ""
+
+#: ../customizer/customize-setup.php:89
+msgid "General"
+msgstr ""
+
+#: ../customizer/customize-setup.php:97
+msgid "Button"
+msgstr ""
+
+#: ../customizer/customize-setup.php:105
+msgid "Widget"
+msgstr ""
+
+#: ../customizer/customize-setup.php:113
+msgid "Footer"
+msgstr ""
+
+#: ../customizer/customize-setup.php:120
+msgid "Advertisement"
+msgstr ""
+
+#: ../customizer/customize-setup.php:127
+msgid "Social Account & Misc"
+msgstr ""
+
+#: ../customizer/customize-setup.php:134
+msgid "Typography"
+msgstr ""
+
+#: ../customizer/customize-setup.php:141
+#: ../customizer/options-customizer/custom-css-options.php:12
+msgid "Custom CSS"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:13
+msgid "Header Ads Image"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:26
+msgid "Header Ads URL"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:40
+msgid "Header Ads Code"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:43
+msgid ""
+"Paste ads code here. This will override Header Ads Image and Header Ads URL"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:55
+msgid "Footer Ads Image"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:68
+msgid "Footer Ads URL"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:82
+msgid "Footer Ads Code"
+msgstr ""
+
+#: ../customizer/options-customizer/ads-options.php:85
+msgid ""
+"Paste ads code here. This will override Footer Ads Image and Footer Ads URL"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:25
+msgid "Accent Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:28
+msgid "This setting affect on link color."
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:40
+msgid "Accent Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:54
+msgid "Heading Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:57
+msgid "This setting affect on Heading Body Typography."
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:69
+msgid "Body Font Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:72
+msgid "This setting affect on Body Font."
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:84
+msgid "Meta Font Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:87
+msgid "This setting affect for meta text."
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:99
+msgid "Border Accent Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:102
+msgid "This setting affect on border color."
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:116
+msgid "Button Fill Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:130
+msgid "Button Fill Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:144
+msgid "Button Fill Font Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:158
+msgid "Button Outline Border Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:172
+msgid "Button Outline Font Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:186
+msgid "Button Outline Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:200
+msgid "Button Outline Hover Font Color"
+msgstr ""
+
+#: ../customizer/options-customizer/color-options.php:216
+msgid "Widget Heading Font Color"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:13
+msgid "Enable Featured Area"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:26
+msgid "Selected Featured Category"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:39
+msgid "Hide Featured Category"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:53
+msgid "Amount of Posts?"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:66
+msgid "Featured Area Font Style"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:69
+msgid ""
+"Insert the name of font style you want. e.g. 'italic'. You can found "
+"reference for the font style here <a href=\"http://www.w3schools.com/cssref/"
+"pr_font_font-style.asp\" target=\"_blank\">Font Style</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:81
+msgid "Featured Area Text Transform"
+msgstr ""
+
+#: ../customizer/options-customizer/feature-options.php:84
+msgid ""
+"Insert the text transform you want. e.g. 'normal'. You can found reference "
+"for the font text transform here <a href=\"http://www.w3schools.com/cssref/"
+"pr_text_text-transform.asp\" target=\"_blank\">Text Transform</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:26
+#: ../customizer/options-customizer/logo-options.php:71
+msgid "Logo Height (px)"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:29
+#: ../customizer/options-customizer/logo-options.php:74
+msgid "This setting will only affect if your logo image already set."
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:41
+msgid "Custom Copyright"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:55
+msgid "Bottom Range (px)"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:70
+msgid "Background Color"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:84
+msgid "Text Color"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:98
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/footer-options.php:112
+#: ../customizer/options-customizer/logo-options.php:129
+msgid "Border Color"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:13
+msgid "Skin"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:18
+msgid "Light"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:19
+msgid "Bold"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:31
+msgid "Blog Layout"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:36
+#: ../customizer/options-customizer/general-options.php:56
+msgid "Standard"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:37
+#: ../customizer/options-customizer/general-options.php:57
+msgid "List"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:38
+#: ../customizer/options-customizer/general-options.php:58
+msgid "Fitrow 2 Columns"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:39
+#: ../customizer/options-customizer/general-options.php:59
+msgid "Fitrow 3 Columns"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:51
+msgid "Archive Layout"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:71
+msgid "Disable Sidebar On Blog"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:85
+msgid "Disable Sidebar On Single Post or Page"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:99
+msgid "Disable Sidebar On Archive"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:113
+msgid "Disable Floating Sidebar"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:127
+msgid "Pagination Types"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:132
+msgid "Old And New"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:133
+msgid "Number"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:145
+msgid "Post Summary Types"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:149
+msgid ""
+"This setting only affect when you choose post \"Standard\" layout in \"Blog "
+"Layout\" and \"Archive Layout\" options."
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:151
+msgid "Use Read More Tags"
+msgstr ""
+
+#: ../customizer/options-customizer/general-options.php:152
+msgid "Use Excerpt"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:14
+msgid "Site Title"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:29
+msgid "Tagline"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:43
+msgid "Site Icon"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:44
+msgid ""
+"The Site Icon is used as a browser and app icon for your site. Icons must be "
+"square, and at least 512px wide and tall."
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:86
+msgid "Above Logo Range (px)"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:100
+msgid "Below Logo Range (px)"
+msgstr ""
+
+#: ../customizer/options-customizer/logo-options.php:115
+msgid "Logo Background Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:13
+msgid "Navigation Position"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:18
+msgid "Above Center-Aligned Logo"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:19
+msgid "Below Center-Aligned Logo"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:20
+msgid "Below Left-Aligned Logo"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:33
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:47
+msgid "Navigation Text Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:61
+msgid "Navigation Text Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:74
+msgid "Enable Border"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:89
+msgid "Navigations Border Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:103
+msgid "Submenu Background Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:117
+msgid "Submenu Text Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:131
+msgid "Submenu Text Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:145
+msgid "Submenu Background Hover Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:159
+msgid "Submenu Border Color"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:172
+msgid "Navbar Text Transform"
+msgstr ""
+
+#: ../customizer/options-customizer/nav-options.php:175
+msgid ""
+"Insert the text transform you want. e.g. 'capitalize'. You can found "
+"reference for the font text transform here <a href=\"http://www.w3schools."
+"com/cssref/pr_text_text-transform.asp\" target=\"_blank\">Text Transform</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:13
+msgid "Hide Category"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:27
+msgid "Hide Date"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:41
+msgid "Hide Tags"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:55
+msgid "Hide Shares"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:69
+msgid "Hide Comment Link"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:83
+msgid "Hide Auhtor Box"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:97
+msgid "Hide Related Posts"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:111
+msgid "Hide Feature Image"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:125
+msgid "Hide Like Post"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:139
+msgid "Hide Share Page"
+msgstr ""
+
+#: ../customizer/options-customizer/post-options.php:153
+msgid "Hide Like Page"
+msgstr ""
+
+#: ../customizer/options-customizer/social-options.php:13
+msgid "Subscription Image"
+msgstr ""
+
+#: ../customizer/options-customizer/social-options.php:26
+msgid "Subscription Shortcode"
+msgstr ""
+
+#: ../customizer/options-customizer/social-options.php:40
+msgid "Archive Url"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:13
+msgid "Headings Font Type"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:16
+msgid ""
+"Insert the name of font family you want. e.g. 'Playfair Display'. You can "
+"found font lists <a href=\"https://www.google.com/fonts\" target=\"_blank"
+"\">Google Fonts</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:28
+msgid "Headings Font Weight"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:42
+msgid "Body Font Type"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:45
+msgid ""
+"Insert the name of font family you want. e.g. 'PT Serif'. You can found font "
+"lists <a href=\"https://www.google.com/fonts\" target=\"_blank\">Google "
+"Fonts</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:57
+msgid "Body Font Weight"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:71
+msgid "Navigations Font Type"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:74
+#: ../customizer/options-customizer/typo-options.php:103
+#: ../customizer/options-customizer/typo-options.php:132
+msgid ""
+"Insert the name of font family you want. e.g. 'Montserrat'. You can found "
+"font lists <a href=\"https://www.google.com/fonts\" target=\"_blank\">Google "
+"Fonts</a>"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:86
+msgid "Navigations Font Weight"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:100
+msgid "Postmeta Font Type"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:115
+msgid "Postmeta Font Weight"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:129
+msgid "Button Font Type"
+msgstr ""
+
+#: ../customizer/options-customizer/typo-options.php:144
+msgid "Button Font Weight"
+msgstr ""
+
+#: ../functions/content-blog.php:251
+msgid "You May Also Like"
+msgstr "Inoltre vi consiglio di leggere..."
+
+#: ../functions/content-blog.php:275
+#: ../functions/content-custom-archive.php:116 ../functions/paginations.php:92
+#: ../functions/paginations.php:100 ../template-archive.php:54
+msgid "Read More"
+msgstr "Leggi Tutto"
+
+#: ../functions/content-blog.php:303 ../functions/template-tags.php:245
+#: ../widgets/widget-recent-medium.php:143
+msgid "Continue Reading"
+msgstr "Leggi tutto"
+
+#: ../functions/content-custom-archive.php:17
+msgid "You are viewing: "
+msgstr "Stai visualizzando: "
+
+#: ../functions/content-custom-archive.php:17
+msgid "All"
+msgstr "tutti"
+
+#: ../functions/content-custom-archive.php:24
+msgid "Select Date"
+msgstr "Seleziona mese"
+
+#: ../functions/content-custom-archive.php:43
+#: ../functions/template-tags.php:439
+msgid "Search"
+msgstr "Cerca"
+
+#: ../functions/paginations.php:17
+msgid "Next"
+msgstr "Successivo"
+
+#: ../functions/paginations.php:18
+msgid "Previous"
+msgstr "Precedente"
+
+#: ../functions/paginations.php:54 ../template-archive.php:88
+msgid "<i class=\"fa fa-angle-left\"></i>Newer Posts"
+msgstr "<i class=\"fa fa-angle-left\"></i>Articoli seguenti"
+
+#: ../functions/paginations.php:60 ../template-archive.php:82
+msgid "Older Posts<i class=\"fa fa-angle-right\"></i>"
+msgstr "Articoli meno recenti<i class=\"fa fa-angle-right\"></i>"
+
+#: ../functions/paginations.php:90
+msgid "Previous Article"
+msgstr "Articolo precedente"
+
+#: ../functions/paginations.php:91 ../functions/paginations.php:99
+msgid "%link"
+msgstr ""
+
+#: ../functions/paginations.php:98
+msgid "Next Article"
+msgstr "Articolo successivo"
+
+#: ../functions/template-comments.php:47
+msgid "at"
+msgstr "alle"
+
+#: ../functions/template-comments.php:62
+msgid "Reply"
+msgstr "Rispondi"
+
+#: ../functions/template-comments.php:69
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../functions/template-comments.php:81
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: ../functions/template-tags.php:58
+msgid "No Comments"
+msgstr "Nessun commento"
+
+#: ../functions/template-tags.php:60
+msgid " Comments"
+msgstr " Commenti"
+
+#: ../functions/template-tags.php:62
+msgid "1"
+msgstr "1"
+
+#: ../functions/template-tags.php:62
+msgid " Comment"
+msgstr " Commento"
+
+#: ../functions/template-tags.php:180
+msgid "Share"
+msgstr "Condividi su"
+
+#: ../functions/template-tags.php:209
+msgid "Twitter Username"
+msgstr ""
+
+#: ../functions/template-tags.php:210
+msgid "Facebook Username"
+msgstr ""
+
+#: ../functions/template-tags.php:211
+msgid "Instagram Username"
+msgstr ""
+
+#: ../functions/template-tags.php:443
+msgid "Subscription"
+msgstr ""
+
+#: ../functions/template-tags.php:447
+msgid "Archive"
+msgstr "Archivi"
+
+#: ../functions/title-controller.php:143
+msgid "Search Result For"
+msgstr "Risultati della ricerca per"
+
+#: ../functions/title-controller.php:145
+msgid "Browsing Categories"
+msgstr "Stai visualizzando gli archivi per la categoria"
+
+#: ../functions/title-controller.php:147
+msgid "Browsing Tags"
+msgstr "Stai visualizzando gli archivi per la tag"
+
+#: ../functions/title-controller.php:149
+msgid "All Post By"
+msgstr "Vedi tutti gli articoli di"
+
+#: ../functions/title-controller.php:152
+msgid "Archive For"
+msgstr "Articoli pubblicati in "
+
+#: ../libraries/attr.php:190
+#, php-format
+msgid "%s Sidebar"
+msgstr ""
+
+#: ../libraries/attr.php:216
+#, php-format
+msgid "%s Menu"
+msgstr ""
+
+#: ../libraries/attr.php:400 ../libraries/attr.php:525
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../libraries/category-image.php:51 ../libraries/category-image.php:72
+#: ../libraries/category-image.php:221
+msgid "Image"
+msgstr ""
+
+#: ../libraries/category-image.php:54 ../libraries/category-image.php:74
+#: ../libraries/category-image.php:203
+msgid "Upload image"
+msgstr ""
+
+#: ../libraries/category-image.php:75 ../libraries/category-image.php:204
+msgid "Remove image"
+msgstr ""
+
+#: ../libraries/category-image.php:239
+msgid "Thumbnail"
+msgstr ""
+
+#: ../libraries/category-image.php:259 ../libraries/category-image.php:266
+msgid "Categories Images settings"
+msgstr ""
+
+#: ../libraries/category-image.php:259 ../libraries/category-image.php:296
+msgid "Categories Images"
+msgstr ""
+
+#: ../libraries/category-image.php:267
+msgid "Excluded Taxonomies"
+msgstr ""
+
+#: ../libraries/category-image.php:272
+msgid ""
+"Please select the taxonomies you want to exclude it from Categories Images "
+"plugin"
+msgstr ""
+
+#: ../libraries/category-image.php:292
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:333
+#: ../plugins/register-plugin.php:69
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:334
+#: ../plugins/register-plugin.php:70
+msgid "Install Plugins"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:335
+#: ../plugins/register-plugin.php:71
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:336
+#: ../plugins/register-plugin.php:72
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:397
+#: ../plugins/register-plugin.php:83
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:399
+#: ../libraries/class-tgm-plugin-activation.php:3034
+#: ../plugins/register-plugin.php:84
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:400
+#: ../libraries/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../libraries/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../libraries/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../libraries/customizer-backup.php:32
+msgid "Restore/Import"
+msgstr ""
+
+#: ../libraries/customizer-backup.php:60
+msgid "All options were restored successfully!"
+msgstr ""
+
+#: ../libraries/customizer-backup.php:63
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: ../libraries/customizer-backup.php:71
+msgid ""
+"If you have settings in a backup file on your computer, the customizer can "
+"import those into this site. To get started, upload your backup file to "
+"import from below."
+msgstr ""
+
+#: ../libraries/customizer-backup.php:74
+msgid "Upload File and Run Import"
+msgstr ""
+
+#: ../libraries/customizer-backup.php:92
+msgid "Backup/Export"
+msgstr ""
+
+#: ../libraries/customizer-backup.php:96
+msgid ""
+"When you click the button below, the Customizer will create a text file for "
+"you to save to your computer."
+msgstr ""
+
+#: ../libraries/customizer-backup.php:97
+#, php-format
+msgid ""
+"This text file can be used to restore your settings here on \"%s\", or to "
+"easily setup another website with the same settings\"."
+msgstr ""
+
+#: ../libraries/customizer-backup.php:98
+msgid "Download Export File"
+msgstr ""
+
+#: ../libraries/theme-setup.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../libraries/theme-setup.php:53
+msgid "Footer Menu"
+msgstr ""
+
+#: ../libraries/theme-setup.php:73
+msgid "Primary"
+msgstr ""
+
+#: ../libraries/theme-setup.php:75
+msgid ""
+"The default primary sidebar for your website, used in two or three-column "
+"layouts."
+msgstr ""
+
+#: ../libraries/theme-setup.php:84
+msgid "Instagram Footer"
+msgstr ""
+
+#: ../libraries/theme-setup.php:86
+msgid ""
+"Use the \"Instagram Feed\" plugin, then paste the shortcode using widget "
+"text here. IMPORTANT: For best result, select 6 columns and set number of "
+"photo to 12."
+msgstr ""
+
+#: ../libraries/theme-setup.php:95
+msgid "Front Page - First Row"
+msgstr ""
+
+#: ../libraries/theme-setup.php:97
+msgid ""
+"This widget appear on the top of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:106
+msgid "Front Page - Second Row, Column 1"
+msgstr ""
+
+#: ../libraries/theme-setup.php:108
+msgid ""
+"This widget appear at the second of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:115
+msgid "Front Page - Third Row, Column 2"
+msgstr ""
+
+#: ../libraries/theme-setup.php:117
+msgid ""
+"This widget appear at the third of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:124
+msgid "Front Page - Fourth Row, Column 3"
+msgstr ""
+
+#: ../libraries/theme-setup.php:126
+msgid ""
+"This widget appear at the fourth of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:135
+msgid "Front Page - Fifth Row, Column 1"
+msgstr ""
+
+#: ../libraries/theme-setup.php:137
+msgid ""
+"This widget appear at the fifth of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:144
+msgid "Front Page - Sixth Row, Column 2"
+msgstr ""
+
+#: ../libraries/theme-setup.php:146
+msgid ""
+"This widget appear at the sixth of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:155
+msgid "Front Page - Seventh Row, Column 1"
+msgstr ""
+
+#: ../libraries/theme-setup.php:157
+msgid ""
+"This widget appear at the seventh of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:164
+msgid "Front Page - Eighth Row, Column 2 "
+msgstr ""
+
+#: ../libraries/theme-setup.php:166
+msgid ""
+"This widget appear at the eighth of widget area in the Front Page template."
+msgstr ""
+
+#: ../libraries/theme-setup.php:175
+msgid "Front Page - Last Row"
+msgstr ""
+
+#: ../libraries/theme-setup.php:177
+msgid ""
+"This widget appear at the lowermost of widget area in the Front Page "
+"template."
+msgstr ""
+
+#: ../meta-box/metabox-setup.php:102
+msgid "Subtitle"
+msgstr ""
+
+#: ../meta-box/metabox-setup.php:123
+msgid "Widget Title"
+msgstr ""
+
+#: ../meta-box/metabox-setup.php:125
+msgid "Embed Code"
+msgstr ""
+
+#: ../meta-box/metabox-setup.php:145
+msgid "Post Count"
+msgstr ""
+
+#: ../plugins/register-plugin.php:85
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../searchform.php:3 ../searchform.php:4 ../templates/footers/misc.php:7
+msgid "Search for:"
+msgstr "Ricerca per:"
+
+#: ../searchform.php:4
+msgid "Search ..."
+msgstr "Cerca ..."
+
+#: ../templates/contents/content-empty.php:8
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: ../templates/contents/content-empty.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Non vi è nulla che corrisponda ai tuoi criteri di ricerca. Prova di nuovo "
+"utilizzando altre parole chiave."
+
+#: ../templates/footers/copyright.php:15
+msgid "Copyright &copy; "
+msgstr ""
+
+#: ../templates/footers/copyright.php:15
+msgid "All Rights Reserved."
+msgstr ""
+
+#: ../templates/footers/misc.php:7
+msgid "What are you looking for"
+msgstr "Inserisci parole chiave…"
+
+#: ../templates/menus/foot.php:30 ../templates/menus/primary.php:51
+msgid "Setup a Menu"
+msgstr ""
+
+#: ../widgets/widget-about.php:10
+msgid "Add About Me widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-about.php:16
+msgid "DF Widget - About Me Widget"
+msgstr ""
+
+#: ../widgets/widget-about.php:24
+msgid "About Me"
+msgstr ""
+
+#: ../widgets/widget-about.php:39 ../widgets/widget-banner.php:28
+#: ../widgets/widget-category.php:28 ../widgets/widget-recent-big.php:28
+#: ../widgets/widget-recent-medium.php:28
+#: ../widgets/widget-recent-small.php:28 ../widgets/widget-social.php:28
+msgid "Widget Title (optional):"
+msgstr ""
+
+#: ../widgets/widget-about.php:44
+msgid "Avatar URL:"
+msgstr ""
+
+#: ../widgets/widget-about.php:49
+msgid "Description:"
+msgstr ""
+
+#: ../widgets/widget-about.php:54
+msgid "Twitter:"
+msgstr ""
+
+#: ../widgets/widget-about.php:59
+msgid "Facebook:"
+msgstr ""
+
+#: ../widgets/widget-about.php:64
+msgid "Google+:"
+msgstr ""
+
+#: ../widgets/widget-about.php:69
+msgid "Instagram:"
+msgstr ""
+
+#: ../widgets/widget-about.php:74
+msgid "Pinterest:"
+msgstr ""
+
+#: ../widgets/widget-about.php:79
+msgid "Bloglovin:"
+msgstr ""
+
+#: ../widgets/widget-about.php:84
+msgid "RSS:"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:10
+msgid "Add an Ads 125px widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:16
+msgid "DF Widget - Ads125 Widget"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:24 ../widgets/widget-ads-300.php:23
+msgid "Advert"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:52 ../widgets/widget-ads-300.php:34
+#: ../widgets/widget-quote.php:28
+msgid "Title (optional):"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:57
+msgid "Ads"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:61
+msgid "Ad Code"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:64 ../widgets/widget-ads-300.php:42
+msgid "or"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:68
+msgid "Image URL"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:73
+msgid "Link URL"
+msgstr ""
+
+#: ../widgets/widget-ads-125.php:78 ../widgets/widget-ads-300.php:55
+msgid "Alt text:"
+msgstr ""
+
+#: ../widgets/widget-ads-300.php:10
+msgid "Add an Ads300 widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-ads-300.php:16
+msgid "DF Widget - Ads300 Widget"
+msgstr ""
+
+#: ../widgets/widget-ads-300.php:39
+msgid "Ad Code:"
+msgstr ""
+
+#: ../widgets/widget-ads-300.php:45 ../widgets/widget-banner.php:33
+msgid "Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads-300.php:50
+msgid "Link URL:"
+msgstr ""
+
+#: ../widgets/widget-banner.php:10
+msgid "Add Banner widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-banner.php:16
+msgid "DF Widget - Banner Widget"
+msgstr ""
+
+#: ../widgets/widget-banner.php:23
+msgid "Banner"
+msgstr ""
+
+#: ../widgets/widget-banner.php:38
+msgid "Banner Title:"
+msgstr ""
+
+#: ../widgets/widget-banner.php:43
+msgid "Banner Height (px):"
+msgstr ""
+
+#: ../widgets/widget-banner.php:45
+msgid "This value will generate as 'px' unit."
+msgstr ""
+
+#: ../widgets/widget-banner.php:49
+msgid "Banner URL:"
+msgstr ""
+
+#: ../widgets/widget-banner.php:54
+msgid "Banner Target:"
+msgstr ""
+
+#: ../widgets/widget-banner.php:56
+msgid "Open Current Window"
+msgstr ""
+
+#: ../widgets/widget-banner.php:56
+msgid "Open New Window"
+msgstr ""
+
+#: ../widgets/widget-category.php:10
+msgid "Add Category widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-category.php:16
+msgid "DF Widget - Category Widget"
+msgstr ""
+
+#: ../widgets/widget-category.php:23
+msgid "Category Banner"
+msgstr ""
+
+#: ../widgets/widget-category.php:32
+msgid "Category Count:"
+msgstr ""
+
+#: ../widgets/widget-category.php:36 ../widgets/widget-recent-big.php:48
+#: ../widgets/widget-recent-medium.php:48
+#: ../widgets/widget-recent-small.php:48
+msgid "Category Include:"
+msgstr ""
+
+#: ../widgets/widget-category.php:38
+msgid ""
+"This parameter takes a comma-separated list of categories by unique ID, in "
+"ascending order."
+msgstr ""
+
+#: ../widgets/widget-quote.php:10
+msgid "Add Quote widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-quote.php:16
+msgid "DF Widget - Quote Widget"
+msgstr ""
+
+#: ../widgets/widget-quote.php:23
+msgid "Quote"
+msgstr ""
+
+#: ../widgets/widget-quote.php:33
+msgid "Quote:"
+msgstr ""
+
+#: ../widgets/widget-quote.php:38
+msgid "By:"
+msgstr "Di:"
+
+#: ../widgets/widget-recent-big.php:10
+msgid "Add Recent Big widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:16
+msgid "DF Widget - Recent Big Widget"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:23
+msgid "Recent Post Big"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:33 ../widgets/widget-recent-medium.php:33
+#: ../widgets/widget-recent-small.php:33
+msgid "Version:"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:35 ../widgets/widget-recent-medium.php:35
+#: ../widgets/widget-recent-small.php:35
+msgid "Version 1"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:35 ../widgets/widget-recent-medium.php:35
+#: ../widgets/widget-recent-small.php:35
+msgid "Version 2"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:43 ../widgets/widget-recent-medium.php:43
+#: ../widgets/widget-recent-small.php:43
+msgid "Post Shown:"
+msgstr ""
+
+#: ../widgets/widget-recent-big.php:50 ../widgets/widget-recent-medium.php:50
+#: ../widgets/widget-recent-small.php:50
+msgid "Insert category slug separate with ' , '. e.g. 'post-format,hello'."
+msgstr ""
+
+#: ../widgets/widget-recent-medium.php:10
+msgid "Add Recent Medium widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-recent-medium.php:16
+msgid "DF Widget - Recent Medium Widget"
+msgstr ""
+
+#: ../widgets/widget-recent-medium.php:23
+msgid "Recent Post Medium"
+msgstr ""
+
+#: ../widgets/widget-recent-small.php:10
+msgid "Add Recent Small widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-recent-small.php:16
+msgid "DF Widget - Recent Small Widget"
+msgstr ""
+
+#: ../widgets/widget-recent-small.php:23
+msgid "Recent Post Small"
+msgstr ""
+
+#: ../widgets/widget-social.php:10
+msgid "Add Social widget to your sidebar or frontpage."
+msgstr ""
+
+#: ../widgets/widget-social.php:16
+msgid "DF Widget - Social Widget"
+msgstr ""
