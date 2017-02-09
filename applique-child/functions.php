@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Applique Child Theme Function File
  */
