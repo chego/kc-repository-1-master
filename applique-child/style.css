@@ -17,7 +17,7 @@ the customizer custom css to add your styles. You have been warned! :)
 NOTE: You can only see these changes when you're not logged in to the site. So open up an incognito window to see them.
 */
 .nav-wrapper-inner .sticky-logo{opacity:1 !important;top:50% !important;}
-.nav-wrapper-inner .sticky-logo img{height:56px;}
+.nav-wrapper-inner .sticky-logo img{height:83px;}
 
 section#mission, section#programs{padding:30px 0;}
 div.post-block {}
